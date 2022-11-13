@@ -76,7 +76,7 @@ Lei focuses on the artificial intelligence-enhenced structural health monitoring
 - *2017*, **Outstanding Graduates** (Top 5%), Chang'an University. 
 - *2014*, **Outstanding Graduates** (Top 5%), Chang'an University. 
 
-# :briefcase: Professional Activities and Services
+# 🎖 Professional Activities and Services
 - *2023*, **Co-Chair of Parelle Session**, 8th International Association for Life-Cycle Civil Engineering (IALCCE 2023).
 - *2022*, **Topic Editor**, "AI Enhanced Civil Infrastructure Safety", MDPI.
 - *2018*, **Co-Chair of Parelle Session**, The 31st KKHTCNN Symposium on Civil Engineering.
