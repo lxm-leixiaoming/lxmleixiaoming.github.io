@@ -21,9 +21,16 @@ Lei, Xiaoming, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tem
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 📖 Educations
+- *2017 - 2021*, **Ph.D.**, Civil Engineering, Tongji Univeristy (Project 985), Shanghai, China. 
+- *2014 - 2017*, **Master**, Bridge engineering, Chang'an Univeristy (Project 211), Xi'an, China. 
+- *2010 - 2014*, **Bachelor**, Bridge engineering, Chang'an Univeristy (Project 211), Xi'an, China. 
+
+# 💻 Professional experience
+- *2022 - Now*, Postdoctoral Fellow, Hong Kong Polytechnic Univeristy, Department of Civil and Environmental Engineering.
+- *2019 - 2020*, Visiting Scholar, Univeristy of California, Irvine, Department of Civil and Environmental Engineering.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -43,16 +50,18 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* **Outstanding Young Engineering Contribution Award**, IABSE (International Associate Bridge and Structure Engineering). 
+- *2022* **Centrally Funded Postdoctoral Fellowship**, Hong Kong Polytechnic Univeristy. 
+- *2022* **Excellent Doctoral Thesis Award**, Tongji Univeristy. 
+- *2020* **Featured Cover Paper**, Structural Control and Health Monitoring, Volume27, Issue12.
+- *2019* **Best Paper Award**, The 10th Cross-Straits Workshop on Civil Engineering Monitoring and Control. 
+- *2018* **First Prize Award**, Asia-Pacific-Euro Summer School on Smart Structures Technology (APESS-2018). 
+- *2017* **Outstanding Graduates** (Top 5%), Chang'an University. 
+- *2014* **Outstanding Graduates** (Top 5%), Chang'an University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional experience
+- *2019 - 2020*, [Lorem](https://github.com/), China.
