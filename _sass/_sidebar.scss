@@ -128,7 +128,7 @@
   }
 }
 
-.sidebar .author__name {
+.sidebar.author__name {
   @include breakpoint($medium) {
     font-size: $type-size-3;
   }
