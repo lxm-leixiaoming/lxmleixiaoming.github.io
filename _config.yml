@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lei, Xiaoming (雷晓鸣)"
+  name             : "Lei, Xiaoming"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Hong Kong Polytechnic University"
   location         : "Hong Kong, China"
