@@ -30,7 +30,7 @@ Lei focuses on the artificial intelligence-enhenced structural health monitoring
 - *2014 - 2017*, **Master**, Bridge Engineering, Chang'an Univeristy (Project 211), Xi'an, China. 
 - *2010 - 2014*, **Bachelor**, Bridge Engineering, Chang'an Univeristy (Project 211), Xi'an, China. 
 
-# 💻 Professional experience
+# 💻 Professional Experience
 - *2022 - Now*, **Postdoctoral Fellow**, Hong Kong Polytechnic Univeristy, Department of Civil and Environmental Engineering.
 - *2019 - 2020*, **Visiting Scholar**, Univeristy of California, Irvine, Department of Civil and Environmental Engineering.
 
