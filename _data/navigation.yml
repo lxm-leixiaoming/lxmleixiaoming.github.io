@@ -10,7 +10,7 @@ main:
     url: "/#-educations"
     
   - title: "Professional Experience"
-    url: "/#-professional experience"
+    url: "/#-professional-experience"
     
   - title: "Publications"
     url: "/#-publications"
@@ -19,7 +19,7 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Professional Activities and Services"
-    url: "/#-professional activities and services"
+    url: "/#-professional-activities-and-services"
 
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
