@@ -82,4 +82,4 @@ Lei focuses on the artificial intelligence-enhenced structural health monitoring
 - *2018*, **Chair of Parelle Session**, The 31st KKHTCNN Symposium on Civil Engineering.
 - *2017*, **Members of the Organizing Committee**, 15th East Asia-Pacific Conference on Structural Engineering and Construction (EASEC15).
 - **Reviewers**, Structural Control and Health Monitoring, Journal of Bridge Engineering, Structures, Nonlinear Dynamics, SCIENCE CHINA Technological Sciences, Shock and Vibration, Mathematical Problems in Engineering, Advances in Materials Science and Engineering, etc..
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=X9lXBEPZ97zfgTpGsxTXBcfAMLV50kVrI0mUUEYpTpo&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=X9lXBEPZ97zfgTpGsxTXBcfAMLV50kVrI0mUUEYpTpo&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
