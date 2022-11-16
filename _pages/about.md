@@ -36,7 +36,7 @@ Lei focuses on the artificial intelligence-enhenced structural health monitoring
 
 # 📝 Publications
 \* denotes corresponding author
-##   Journal
+## &nbsp;&nbsp;Journal
 1.	**Xiaoming Lei**, Ye Xia, Ao Wang, Xudong Jian, Huaqiang Zhong, Limin Sun. (2023). [Mutual information based anomaly detection of monitoring data with attention mechanism and residual learning](https://doi.org/10.1016/j.ymssp.2022.109607). *Mechanical Systems and Signal Processing*.
 2.	**Xiaoming Lei**, Dionysius M. Siringoringo, Zhen Sun, Yozo Fujino. (2022). [Displacement responses estimation of a cable-stayed bridge subject to varying loads with one-dimensional residual convolutional autoencoder](https://doi.org/10.1177/14759217221116637). *Structural Health Monitoring*.
 3.	**Xiaoming Lei**, Ye Xia, Lu Deng, Limin Sun. (2022). [A deep reinforcement learning framework for life-cycle maintenance planning of regional deteriorating bridges using inspection data](https://doi.org/10.1007/s00158-022-03210-3). *Structural and Multidisciplinary Optimization*.
@@ -59,7 +59,7 @@ Lei focuses on the artificial intelligence-enhenced structural health monitoring
 21.	Xiaoming Wang, **Xiaoming Lei**, Chengshu Wang, Yuanxiao Xu. (2017). [Spatial transformation control method of main cable alignment during construction process in suspension bridge with spatial cables](http://dx.doi.org/10.6052/j.issn.1000-4750.2015.11.0902). *Engineering Mechanics*. (in Chinese)
 22.	Xiaoming Wang, **Xiaoming Lei**, Chengshu Wang, Yuanxiao Xu. (2016). Hoisting construction method and performance analysis of a self-anchored suspension and cable-stayed bridge. *Bridge Construction*. (in Chinese)
 
-## &nbsp &nbsp Conference
+## &nbsp;&nbsp;Conference
 22.	**Xiaoming Lei**, Limin Sun, Ye Xia. (2022). Validation and Updating of Regional Bridge Deterioration Model Incorporating Structural Health Monitoring. *IABSE Congress*. Nanjing. 
 23.	Ao Wang, **Xiaoming Lei**, Limin Sun, Ye Xia. (2022). Numerical and Experimental Study on the Temperature Distribution of an RC Maglev Viaduct Based on Meteorological Monitoring. *IABSE Congress*. Nanjing.
 24.	**Xiaoming Lei**, Limin Sun, Ye Xia. (2019). Parametric seismic vulnerability assessment model considering multiple damage states. *The 10th Cross-Straits Workshop on Civil Engineering Monitoring and Control*. Wuhan.
