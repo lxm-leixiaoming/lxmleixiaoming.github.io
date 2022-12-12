@@ -67,7 +67,7 @@ Lei focuses on the artificial intelligence-enhenced structural health monitoring
 26.	**Xiaoming Lei**, Limin Sun, Ye Xia. (2018). Structural Damage Identification using a Multi-Modes Fusion Method. *7th World Conference on Structural Control and Monitoring (7WCSCM)*. Qingdao.
 
 # 🎖 Honors and Awards
-- *2022*, **Outstanding Young Engineering Contribution Award**, IABSE (International Associate Bridge and Structure Engineering). 
+- *2022*, **Outstanding Young Engineer Contribution Award**, IABSE (International Associate Bridge and Structure Engineering). 
 - *2022*, **Centrally Funded Postdoctoral Fellowship**, Hong Kong Polytechnic Univeristy. 
 - *2022*, **Excellent Doctoral Thesis Award**, Tongji Univeristy. 
 - *2020*, **Featured Cover Paper**, Structural Control and Health Monitoring, Volume27, Issue12.
