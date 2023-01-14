@@ -26,13 +26,13 @@ Lei focuses on the artificial intelligence-enhenced structural health monitoring
 - *2022.06*, Call for papers, Artificial Intelligence-Based Life-Cycle Management of Infrastructure Systems in IALCCE 2023 is online. [(Link)](https://ialcce2023.org/technical-program/mini-symposia/)
 
 # 📖 Educations
-- *2017 - 2021*, **Ph.D.**, Civil Engineering, Tongji Univeristy (Project 985), Shanghai, China. 
-- *2014 - 2017*, **Master**, Bridge Engineering, Chang'an Univeristy (Project 211), Xi'an, China. 
-- *2010 - 2014*, **Bachelor**, Bridge Engineering, Chang'an Univeristy (Project 211), Xi'an, China. 
+- *2017 - 2021*, **Ph.D.**, Civil Engineering, Tongji University (Project 985), Shanghai, China. 
+- *2014 - 2017*, **Master**, Bridge Engineering, Chang'an University (Project 211), Xi'an, China. 
+- *2010 - 2014*, **Bachelor**, Bridge Engineering, Chang'an University (Project 211), Xi'an, China. 
 
 # 💻 Professional Experience
-- *2022 - Now*, **Postdoctoral Fellow**, Hong Kong Polytechnic Univeristy, Department of Civil and Environmental Engineering.
-- *2019 - 2020*, **Visiting Scholar**, Univeristy of California, Irvine, Department of Civil and Environmental Engineering.
+- *2022 - Now*, **Postdoctoral Fellow**, Hong Kong Polytechnic University, Department of Civil and Environmental Engineering.
+- *2019 - 2020*, **Visiting Scholar**, University of California, Irvine, Department of Civil and Environmental Engineering.
 
 # 📝 Publications
 \* denotes corresponding author
@@ -68,8 +68,8 @@ Lei focuses on the artificial intelligence-enhenced structural health monitoring
 
 # 🎖 Honors and Awards
 - *2022*, **Outstanding Young Engineer Contribution Award**, IABSE (International Associate Bridge and Structure Engineering). 
-- *2022*, **Centrally Funded Postdoctoral Fellowship**, Hong Kong Polytechnic Univeristy. 
-- *2022*, **Excellent Doctoral Thesis Award**, Tongji Univeristy. 
+- *2022*, **Centrally Funded Postdoctoral Fellowship**, Hong Kong Polytechnic University. 
+- *2022*, **Excellent Doctoral Thesis Award**, Tongji University. 
 - *2020*, **Featured Cover Paper**, Structural Control and Health Monitoring, Volume27, Issue12.
 - *2019*, **Best Paper Award**, The 10th Cross-Straits Workshop on Civil Engineering Monitoring and Control. 
 - *2018*, **First Prize Award**, Asia-Pacific-Euro Summer School on Smart Structures Technology (APESS-2018). 
