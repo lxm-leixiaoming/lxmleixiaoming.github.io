@@ -37,7 +37,6 @@ Dr.Lei focuses on the artificial intelligence-enhenced structural health monitor
 # 📝 Publications
 \* denotes corresponding author
 ## &emsp;&emsp;Journal
--	**Xiaoming Lei**, You Dong, Dan M. Frangopol. (2023). Sustainable life-cycle maintenance policy-making for network-level deteriorating bridges with convolutional autoencoder-structured reinforcement learning agent. *ASCE - Journal of Bridge Engineering*.
 -	**Xiaoming Lei**, Ye Xia, Ao Wang, Xudong Jian, Huaqiang Zhong, Limin Sun. (2023). [Mutual information based anomaly detection of monitoring data with attention mechanism and residual learning](https://doi.org/10.1016/j.ymssp.2022.109607). *Mechanical Systems and Signal Processing*.
 -	**Xiaoming Lei**, Dionysius M. Siringoringo, Zhen Sun, Yozo Fujino. (2022). [Displacement responses estimation of a cable-stayed bridge subject to varying loads with one-dimensional residual convolutional autoencoder](https://doi.org/10.1177/14759217221116637). *Structural Health Monitoring*.
 -	**Xiaoming Lei**, Ye Xia, Lu Deng, Limin Sun. (2022). [A deep reinforcement learning framework for life-cycle maintenance planning of regional deteriorating bridges using inspection data](https://doi.org/10.1007/s00158-022-03210-3). *Structural and Multidisciplinary Optimization*.
