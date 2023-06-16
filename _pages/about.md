@@ -83,5 +83,5 @@ Dr. Lei focuses on the artificial intelligence-enhenced structural health monito
 - *2022*, **Topic Editor**, "AI Enhanced Civil Infrastructure Safety", MDPI.
 - *2018*, **Chair of Parelle Session**, The 31st KKHTCNN Symposium on Civil Engineering.
 - *2017*, **Members of the Organizing Committee**, 15th East Asia-Pacific Conference on Structural Engineering and Construction (EASEC15).
-- **Reviewers**, Structural Control and Health Monitoring, ASCE-Journal of Bridge Engineering, Structures, Structure and Infrastructure Engineering, ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part A: Civil Engineering, Nonlinear Dynamics, SCIENCE CHINA Technological Sciences,Structures, etc..
+- **Reviewers**, Structural Control and Health Monitoring, ASCE-Journal of Bridge Engineering, Structure and Infrastructure Engineering, ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part A: Civil Engineering, Nonlinear Dynamics, SCIENCE CHINA Technological Sciences,Structures, etc..
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=365&t=n&d=X9lXBEPZ97zfgTpGsxTXBcfAMLV50kVrI0mUUEYpTpo&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
